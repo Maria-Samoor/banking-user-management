@@ -1,4 +1,4 @@
-package com.exalt.training;
+package com.exalt.training.blockedusers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
